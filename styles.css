@@ -73,6 +73,7 @@ a {
   display: flex;
   padding-right: 15px;
   padding-left: 15px;
+border-radius: 20%;
 }
 
 .skills-column {
