@@ -255,7 +255,7 @@ form {
 .form-group {
   margin-top: 10px;
   margin-bottom: 10px;
-  border-bottom: 2px solid #d9d9d9;
+  border-bottom: 2px solid rgba(29, 99, 175, 0.8);
   flex-grow: 1;
 }
 
