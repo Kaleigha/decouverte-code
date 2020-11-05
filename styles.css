@@ -206,7 +206,7 @@ time {
 }
 
 .timeline ul li.in-view::after {
-  background: rgba(18, 157, 175, 1);
+  background: rgba(29, 99, 175, 1);
 }
 
 .timeline .bubble {
